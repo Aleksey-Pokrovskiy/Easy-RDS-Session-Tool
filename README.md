@@ -1,5 +1,5 @@
 
-                        RDS SESSION MANAGER v4.0
+                        Easy RDS SESSION TOOL v4.0
 
 
 DESCRIPTION
