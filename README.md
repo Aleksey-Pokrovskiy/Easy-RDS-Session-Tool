@@ -4,7 +4,7 @@
 
 DESCRIPTION
 -----------
-RDS Session Manager is a powerful and user-friendly tool designed for IT 
+Easy RDS Session Tool is a easily and user-friendly tool designed for IT 
 administrators to manage Remote Desktop sessions on Windows Terminal Servers. 
 This application provides a centralized interface to monitor, connect to, and 
 control user sessions across multiple RDS servers.
@@ -57,7 +57,7 @@ SYSTEM REQUIREMENTS
 
 INSTALLATION
 ------------
-1. Download or extract the file RDS_SM_v4.0.exe from the archive
+1. Download or extract the file Easy_RDSST_4.exe from the archive
 2. Run the file, then choose whether to install the program for yourself 
    or for all users on the PC
 3. Leave the default installation directory or select your own
