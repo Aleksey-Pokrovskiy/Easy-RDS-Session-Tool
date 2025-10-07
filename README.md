@@ -57,7 +57,7 @@ SYSTEM REQUIREMENTS
 
 INSTALLATION
 ------------
-1. Download or extract the file Easy_RDSST_4.exe from the archive
+1. Download and extract the file Easy_RDSST_4.exe from the zip archive
 2. Run the file, then choose whether to install the program for yourself 
    or for all users on the PC
 3. Leave the default installation directory or select your own
