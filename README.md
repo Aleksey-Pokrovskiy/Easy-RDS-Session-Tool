@@ -215,7 +215,7 @@ implied. Use at your own risk. The author is not responsible for any data
 loss, system damage, or other issues arising from the use of this software.
 
 
-================================================================================
+
               For updates and more information, contact:
                       a.pokrovskiy@live.com
-================================================================================
+
